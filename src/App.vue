@@ -30,7 +30,6 @@ function setFilterBy(value: FilterBy) {
 <template>
   <Header />
   <PageContainer>
-    
     <SectionLayout title-text="Наши акции">
       <Promo :promo="promo" />
     </SectionLayout>
@@ -43,6 +42,3 @@ function setFilterBy(value: FilterBy) {
     </SectionLayout>
   </PageContainer>
 </template>
-
-<style scoped>
-</style>

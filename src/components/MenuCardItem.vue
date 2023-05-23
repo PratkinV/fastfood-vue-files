@@ -79,5 +79,4 @@ defineProps<{
     font-size: 17px;
   }
 }
-
 </style>
